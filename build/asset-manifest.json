@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/supercode-participants-react/build/static/css/main.d7d15bfd.chunk.css",
+    "main.js": "/supercode-participants-react/build/static/js/main.2f9ecc61.chunk.js",
+    "main.js.map": "/supercode-participants-react/build/static/js/main.2f9ecc61.chunk.js.map",
+    "runtime-main.js": "/supercode-participants-react/build/static/js/runtime-main.f45a6688.js",
+    "runtime-main.js.map": "/supercode-participants-react/build/static/js/runtime-main.f45a6688.js.map",
+    "static/js/2.56183a88.chunk.js": "/supercode-participants-react/build/static/js/2.56183a88.chunk.js",
+    "static/js/2.56183a88.chunk.js.map": "/supercode-participants-react/build/static/js/2.56183a88.chunk.js.map",
+    "index.html": "/supercode-participants-react/build/index.html",
+    "precache-manifest.883309891766886cc4ea2c69ac5a3dae.js": "/supercode-participants-react/build/precache-manifest.883309891766886cc4ea2c69ac5a3dae.js",
+    "service-worker.js": "/supercode-participants-react/build/service-worker.js",
+    "static/css/main.d7d15bfd.chunk.css.map": "/supercode-participants-react/build/static/css/main.d7d15bfd.chunk.css.map",
+    "static/media/logo.svg": "/supercode-participants-react/build/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f45a6688.js",
+    "static/js/2.56183a88.chunk.js",
+    "static/css/main.d7d15bfd.chunk.css",
+    "static/js/main.2f9ecc61.chunk.js"
+  ]
+}
