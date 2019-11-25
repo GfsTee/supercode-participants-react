@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import Participant from './Components/Participant'
 import './App.css';
 import uuid from 'react-uuid'
@@ -102,7 +101,7 @@ class App extends Component {
       <main>
         <h1>Willkommen bei super(<span>code</span>):</h1>
         <h6>Now with React</h6>
-        <h6>Teilnehmeranzahl: {this.state.count}</h6>
+        <h4>Teilnehmeranzahl: {this.state.count}</h4>
         <section>
           <div>
             {allParti}

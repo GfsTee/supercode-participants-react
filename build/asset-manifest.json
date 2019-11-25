@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/supercode-participants-react/build/static/css/main.d7d15bfd.chunk.css",
-    "main.js": "/supercode-participants-react/build/static/js/main.2f9ecc61.chunk.js",
-    "main.js.map": "/supercode-participants-react/build/static/js/main.2f9ecc61.chunk.js.map",
-    "runtime-main.js": "/supercode-participants-react/build/static/js/runtime-main.f45a6688.js",
-    "runtime-main.js.map": "/supercode-participants-react/build/static/js/runtime-main.f45a6688.js.map",
-    "static/js/2.56183a88.chunk.js": "/supercode-participants-react/build/static/js/2.56183a88.chunk.js",
-    "static/js/2.56183a88.chunk.js.map": "/supercode-participants-react/build/static/js/2.56183a88.chunk.js.map",
-    "index.html": "/supercode-participants-react/build/index.html",
-    "precache-manifest.883309891766886cc4ea2c69ac5a3dae.js": "/supercode-participants-react/build/precache-manifest.883309891766886cc4ea2c69ac5a3dae.js",
-    "service-worker.js": "/supercode-participants-react/build/service-worker.js",
-    "static/css/main.d7d15bfd.chunk.css.map": "/supercode-participants-react/build/static/css/main.d7d15bfd.chunk.css.map",
-    "static/media/logo.svg": "/supercode-participants-react/build/static/media/logo.25bf045c.svg"
+    "main.css": "/supercode/teilnehmer/static/css/main.6bb067a0.chunk.css",
+    "main.js": "/supercode/teilnehmer/static/js/main.c8147f0a.chunk.js",
+    "main.js.map": "/supercode/teilnehmer/static/js/main.c8147f0a.chunk.js.map",
+    "runtime-main.js": "/supercode/teilnehmer/static/js/runtime-main.4e84118e.js",
+    "runtime-main.js.map": "/supercode/teilnehmer/static/js/runtime-main.4e84118e.js.map",
+    "static/js/2.56183a88.chunk.js": "/supercode/teilnehmer/static/js/2.56183a88.chunk.js",
+    "static/js/2.56183a88.chunk.js.map": "/supercode/teilnehmer/static/js/2.56183a88.chunk.js.map",
+    "index.html": "/supercode/teilnehmer/index.html",
+    "precache-manifest.861a484ebfa5b42b4d68a58636b26561.js": "/supercode/teilnehmer/precache-manifest.861a484ebfa5b42b4d68a58636b26561.js",
+    "service-worker.js": "/supercode/teilnehmer/service-worker.js",
+    "static/css/main.6bb067a0.chunk.css.map": "/supercode/teilnehmer/static/css/main.6bb067a0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f45a6688.js",
+    "static/js/runtime-main.4e84118e.js",
     "static/js/2.56183a88.chunk.js",
-    "static/css/main.d7d15bfd.chunk.css",
-    "static/js/main.2f9ecc61.chunk.js"
+    "static/css/main.6bb067a0.chunk.css",
+    "static/js/main.c8147f0a.chunk.js"
   ]
 }

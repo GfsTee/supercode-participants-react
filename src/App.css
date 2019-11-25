@@ -121,9 +121,12 @@ p {
     padding-top: .5vmin;
     color: rgb(0, 195, 255);
 }
-
-
-
-h6 {
+h6, h5, h4 {
     text-align: center;
+}
+select {
+    margin-top: 10px !important;
+}
+h4 {
+    margin-bottom: 10px;
 }
