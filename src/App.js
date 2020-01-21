@@ -19,6 +19,7 @@ class App extends Component {
         { name: 'Houman', participating: true },
         { name: 'Jana', participating: true },
         { name: 'Jascha', participating: true },
+        { name: 'Marcin', participating: true },
         { name: 'Medovyi', participating: true },
         { name: 'Mohammad Alzibak', participating: true },
         { name: 'Mohammad Olfatee', participating: true },
